@@ -8,7 +8,10 @@ _The core belief: if we do X, then Y, because Z._
 
 FinWise's biggest growth problem is **turning trial users into paying customers (the Revenue stage): trial-to-paid conversion is stuck at ~2% every month, whatever happens to traffic or feature usage**, because **trial users never reach a specific moment of real value during the premium period, so the reverse trial's loss aversion has nothing to work on.**
 
-_Working notes: The problem isn't getting users in the door, it's what happens after they arrive. A reverse trial runs on loss aversion, and users can only feel the loss of value they've actually experienced; if they never reach the Aha moment during premium, the downgrade costs them nothing. 
+
+_Working notes: 
+
+The problem isn't getting users in the door, it's what happens after they arrive. A reverse trial runs on loss aversion, and users can only feel the loss of value they've actually experienced; if they never reach the Aha moment during premium, the downgrade costs them nothing. 
 
 Evidence: (1) only 2% of trial starts convert to paid, so 98 of every 100 sign-ups FinWise pays to acquire never pay; (2) most of the marketing budget goes to paid acquisition, yet adding more money is no longer driving meaningful growth, so the top of the funnel isn't the binding constraint; (3) one-year retention for paid customers is 40% (60% churn), so even users who pay don't stay, consistent with value not being established early. 
 
