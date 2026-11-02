@@ -32,7 +32,10 @@ _____
 ## Guardrail + read date
 
 - **Guardrail:** _the metric that must not degrade (and by how much)._
-  (1) Day-1 drop-off (trial users who never return after their first session) must not rise by more than 2 percentage points versus control: a flow that forces a bank connection must not scare users away. (2) Trial-to-paid conversion in the treatment arm must not fall below the 2% baseline. (3) No increase in onboarding-related support tickets about data access or security. If any guardrail breaks, the result is read as a Mixed Signal and investigated before shipping, even if the primary metric wins.
+- 
+  (1) Day-1 drop-off (trial users who never return after their first session) must not rise by more than 2 percentage points versus control: a flow that forces a bank connection must not scare users away.
+  (2) Trial-to-paid conversion in the treatment arm must not fall below the 2% baseline.
+  (3) No increase in onboarding-related support tickets about data access or security. If any guardrail breaks, the result is read as a Mixed Signal and investigated before shipping, even if the primary metric wins.
   
 - **Read date:** _when you call it, no peeking._
   Fixed before launch: **when both arms reach 612 new trial users, about 10 weeks after launch at ~535 trials a month, and no earlier.** The secondary trial-to-paid read happens once the last enrolled cohort's reverse trial has ended. No peeking: interim dashboards are for guardrail monitoring only. Avoid launching just before the December–January dip seen in last year's data (import fell to 30.5–32.2% in Jan–Mar 2024, and sessions per user hit their low of 3 in Jan 2024), and don't run any other experiment on the same onboarding surface at the same time.
