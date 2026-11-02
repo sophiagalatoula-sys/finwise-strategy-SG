@@ -32,9 +32,11 @@ _____
 ## Guardrail + read date
 
 - **Guardrail:** _the metric that must not degrade (and by how much)._
-- 
+  
   (1) Day-1 drop-off (trial users who never return after their first session) must not rise by more than 2 percentage points versus control: a flow that forces a bank connection must not scare users away.
+
   (2) Trial-to-paid conversion in the treatment arm must not fall below the 2% baseline.
+
   (3) No increase in onboarding-related support tickets about data access or security. If any guardrail breaks, the result is read as a Mixed Signal and investigated before shipping, even if the primary metric wins.
   
 - **Read date:** _when you call it, no peeking._
